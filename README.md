@@ -29,7 +29,7 @@ projects developed with the course: "Udemy- Flutter - Móvil: De cero a experto"
 
 ![Captura desde 2024-04-22 21-02-22](https://github.com/paularellanom/projects_developed/assets/155793504/a82b95d6-f668-4808-8569-9fcd509ee9d6)
 
-![Captura desde 2024-04-22 21-10-03](https://github.com/paularellanom/projects_developed/assets/155793504/ef1bdffa-a6ed-4804-9204-ee4514a0b2ee)
+
 
 
 
