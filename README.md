@@ -14,7 +14,11 @@ https://github.com/paularellanom/projects_developed/assets/155793504/b711d052-bf
 
 #yes_no_app
 
-![Captura desde 2024-04-22 12-54-57](https://github.com/paularellanom/projects_developed/assets/155793504/16bb7db0-503a-455e-be19-303e77cd8d2e)
+
+
+https://github.com/paularellanom/flutter_apps/assets/155793504/a53497f0-aa76-4908-a88e-2f1950436498
+
+
 
 
 
