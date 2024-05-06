@@ -4,15 +4,11 @@
 
 #toktik
 
-![Captura desde 2024-04-22 12-46-15](https://github.com/paularellanom/projects_developed/assets/155793504/111887ac-98dd-44cd-a47e-3809dfb4482e)
 
-![Captura desde 2024-04-22 12-46-29](https://github.com/paularellanom/projects_developed/assets/155793504/9d20e262-6f24-4033-a6d2-9202aef8765c)
 
-![Captura desde 2024-04-22 12-46-36](https://github.com/paularellanom/projects_developed/assets/155793504/4ffd8f0c-f535-484f-8a74-ef67b9b2c2dd)
 
-![Captura desde 2024-04-22 12-46-40](https://github.com/paularellanom/projects_developed/assets/155793504/f354bead-2ba0-48fc-911c-06f66968045a)
+https://github.com/paularellanom/projects_developed/assets/155793504/b711d052-bfd3-4f53-8bc7-5644e4d2f33a
 
-![Captura desde 2024-04-22 12-46-45](https://github.com/paularellanom/projects_developed/assets/155793504/50aab835-9945-47a0-a61a-94d07ba64936)
 
 
 
