@@ -30,4 +30,3 @@ https://github.com/paularellanom/flutter_apps/assets/155793504/a53497f0-aa76-490
 
 # videos and images of applications developed
 
-
