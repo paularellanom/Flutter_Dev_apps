@@ -1,6 +1,6 @@
 # flutter_apps
-
-
+Flutter - Móvil: De cero a experto - Edición 2023 -
+Fernando Herrera
 
 # toktik
 
@@ -15,10 +15,11 @@ https://github.com/paularellanom/flutter_apps/assets/155793504/a53497f0-aa76-490
 
 
 
+# Otros proyectos personales :
+
 # open_map
 
 ![Captura desde 2024-05-06 18-41-23](https://github.com/paularellanom/flutter_apps/assets/155793504/69256c3b-e99b-4702-b827-fd79a026a454)
-
 
 
 
