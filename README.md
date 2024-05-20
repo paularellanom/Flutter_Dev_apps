@@ -3,6 +3,34 @@ Code done step-by-step with the course: "Udemy- Flutter - Móvil: De cero a expe
 
 # widget_app
 
+    Navegación entre pantallas
+
+    Nuevos widgets
+
+        Botones y sus variantes
+
+        botones personalizados
+
+        Tarjetas
+
+        Tarjetas personalizadas
+
+        Align
+
+    Rutas
+
+        Propias de Flutter
+
+        Go_Router
+
+        Paths
+
+        Configuraciones de router
+
+            Propio
+
+            De terceros
+
 https://github.com/paularellanom/flutter_apps/assets/155793504/0e2fa112-e455-4a4f-9cc7-38cee4f0fbaa
 
 # toktik
