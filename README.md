@@ -3,21 +3,15 @@ Code done step-by-step with the course: "Udemy- Flutter - Móvil: De cero a expe
 
 # widget_app
 
-
-
 https://github.com/paularellanom/flutter_apps/assets/155793504/0e2fa112-e455-4a4f-9cc7-38cee4f0fbaa
-
 
 # toktik
 
 https://github.com/paularellanom/projects_developed/assets/155793504/b711d052-bfd3-4f53-8bc7-5644e4d2f33a
 
-
-
 # yes_no_app
 
 https://github.com/paularellanom/flutter_apps/assets/155793504/a53497f0-aa76-4908-a88e-2f1950436498
-
 
 
 #
@@ -29,7 +23,6 @@ https://github.com/paularellanom/flutter_apps/assets/155793504/a53497f0-aa76-490
 
 
 # flutter_restapi_countries 
-
 
 ![flutter_restapi_countries](https://github.com/paularellanom/flutter_apps/assets/155793504/67b1f62a-c994-4af1-8f03-5e4082bb7f07)
 
