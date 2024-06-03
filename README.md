@@ -1,5 +1,33 @@
 # flutter_apps
-Code done step-by-step with the course: "Udemy- Flutter - Móvil: De cero a experto - Fernando Herrera"
+
+
+# webView
+
+¿Qué es WebView?
+
+WebView es un componente que permite a las aplicaciones móviles mostrar contenido web directamente dentro de la aplicación. Es como tener un navegador web embebido en tu aplicación, lo que significa que puedes cargar y mostrar páginas web sin necesidad de salir de la app.
+
+Ventajas de Usar WebView en Aplicaciones Móviles:
+
+Acceso Directo a Contenido Web:
+
+-Con WebView puedes integrar sitios web y contenido en línea en tu aplicación, proporcionando a los usuarios acceso a información y servicios actualizados sin necesidad de alternar entre diferentes aplicaciones o navegadores.
+
+-Experiencia de Usuario Consistente:
+
+Al utilizar la interfaz de usuario web dentro de la aplicación, puedes asegurar una experiencia de usuario consistente y familiar, lo cual es beneficioso para usuarios que ya están acostumbrados a tu sitio web.
+
+-Desarrollo Rápido y Eficiente:
+
+La integración de WebView en Flutter permite un desarrollo ágil, ya que puedes reutilizar contenido web existente y aprovechar las capacidades de Flutter para crear interfaces de usuario fluidas y responsivas.
+
+Además, con Flutter, puedes desarrollar para ambas plataformas, iOS y Android, desde un único código base, lo que reduce significativamente el tiempo y esfuerzo de desarrollo.
+
+
+
+https://github.com/paularellanom/Flutter_Dev_apps/assets/155793504/8284de3a-ece1-486b-8cac-30c568510395
+
+
 
 # widget_app
 
